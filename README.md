@@ -13,8 +13,8 @@
 
 ```diff
 # Разработка
-! C#/.NET | Java
-+ SQL | ER-диаграммы
+! C#/.NET
++ Microsoft SQL Server
 
 # Визуализация
 ! Microsoft Visio (IDEF0/DFD/BPMN)
