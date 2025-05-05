@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Привет, я [Ваше Имя] | Инженер-документалист × Разработчик
+  Привет, я Кирилл | Инженер-документалист × Разработчик
 </h1>
 
 ---
